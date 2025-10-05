@@ -1,18 +1,6 @@
-# macOS
 .DS_Store
-
-# Python
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.egg-info/
-.env
-.venv/
-venv/
-
-# Editors
 .vscode/
-
-# Streamlit cache
 .streamlit/
