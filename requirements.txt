@@ -1,4 +1,6 @@
-streamlit>=1.50
-pandas>=2.3
-reportlab>=4.2
+streamlit>=1.33
+pandas>=2.2
 altair>=5.4
+reportlab>=4.2
+supabase>=2.6
+python-dotenv>=1.0
